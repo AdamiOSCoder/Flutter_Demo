@@ -1,6 +1,6 @@
-Flutter Demo。
+Flutter Demo。👍👍
 
-Flutter 学习Demo。
+Flutter学习Demo。学习Fultter时自己写的Demo，把一些Widget分离出来，简单易懂。希望对学习Flutter的人有帮助。👍👍
 
-Flutter勉強した時、自分で作ったDemoです。宜しくおねがいします。
+Flutter勉強した時、自分で作ったDemoです。宜しくおねがいします。👍👍
 
